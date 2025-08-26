@@ -20,5 +20,24 @@ from: markdown+emoji
 
 # What is Positron?
 
-- A new IDE
-- Built on top of VS Code
+- Next-gen IDE for data science
+- Was available for beta testing and has recently moved to stable release
+- Fork of the open-source project that builds VS Code
+
+# Who is the audience?
+
+- Primarily R users
+- Most experience with RStudio
+- Maybe tried VS Code, Jupyter, etc.
+
+# Ideology
+
+- Polyglot (multilingual) IDE
+- Support for both R and Python
+- Unlike single-language IDEs (RStudio, MATLAB)
+- Real-world projects often require different programming languages
+
+# Familiarity
+
+- Similar to RStudio (in layout - console, editor, help, plots)
+- Based on VS Code OSS
