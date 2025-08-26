@@ -1,0 +1,24 @@
+---
+title: "Let's talk about Positron!"
+subtitle: "Kolkata R User Group (Online)"
+date: "2025/08/27"
+author: "Saranjeet Kaur Bhogal"
+institute: Imperial College London
+format: 
+  revealjs:
+    incremental: true
+    slide-number: true
+    show-slide-number: all
+    footer: "saranjeetkaur.github.io/intro_positron"
+execute: 
+  echo: false
+  warning: false
+  cache: true
+  freeze: true
+from: markdown+emoji
+---
+
+# What is Positron?
+
+- A new IDE
+- Built on top of VS Code
