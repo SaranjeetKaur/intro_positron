@@ -41,3 +41,27 @@ from: markdown+emoji
 
 - Similar to RStudio (in layout - console, editor, help, plots)
 - Based on VS Code OSS
+
+# Thanks
+
+- Julia Silge: talk link
+
+# Resources
+
+- Books, blogs, repo, website, talks, etc.
+
+# Slides
+
+- Slides made using [quarto](https://github.com/quarto-dev/quarto) in Positron
+
+# Learning more
+
+- About Positron: https://positron.posit.co
+
+- talk link: saranjeetkaur.github.io/intro_positron/
+
+- GitHub: SaranjeetKaur
+
+- Email: kaur.saranjeet3\@gmail.com
+
+# **Thank you!**
