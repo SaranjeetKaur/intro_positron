@@ -58,6 +58,7 @@ from: markdown+emoji
 - Notice the summary of the columns
 - Can apply filters
 - Can plot from the dataset: `plot(data$Sepal.Length, data$Sepal.Width)`
+- Try with another dataset: `airquality`
 
 # Thanks
 
