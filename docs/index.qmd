@@ -42,13 +42,18 @@ from: markdown+emoji
 - Similar to RStudio (in layout - console, editor, help, plots)
 - Based on VS Code OSS
 
+# Positron Layout
+
+![](layout.jpeg)
+
 # Thanks
 
-- Julia Silge: talk link
+- Julia Silge's talk [A first look at Positron](https://www.youtube.com/watch?v=aKSrptGegeo), useR! 2025 virtual session
 
 # Resources
 
-- Books, blogs, repo, website, talks, etc.
+- Positron's GitHub Repository: https://github.com/posit-dev/positron
+- Website: https://positron.posit.co
 
 # Slides
 
@@ -58,7 +63,7 @@ from: markdown+emoji
 
 - About Positron: https://positron.posit.co
 
-- talk link: saranjeetkaur.github.io/intro_positron/
+- Talk link: saranjeetkaur.github.io/intro_positron/
 
 - GitHub: SaranjeetKaur
 
