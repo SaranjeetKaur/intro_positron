@@ -42,6 +42,10 @@ from: markdown+emoji
 - Similar to RStudio (in layout - console, editor, help, plots)
 - Based on VS Code OSS
 
+# New Window
+
+![](new_window.png)
+
 # Positron Layout
 
 ![](layout.jpeg)
