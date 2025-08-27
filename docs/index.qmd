@@ -50,6 +50,15 @@ from: markdown+emoji
 
 ![](layout.jpeg)
 
+# Demo with data
+
+- Help on `iris` dataset: `?iris`
+- Store `iris` dataset in a variable: `data <- iris`
+- View the dataset
+- Notice the summary of the columns
+- Can apply filters
+- Can plot from the dataset: `plot(data$Sepal.Length, data$Sepal.Width)`
+
 # Thanks
 
 - Julia Silge's talk [A first look at Positron](https://www.youtube.com/watch?v=aKSrptGegeo), useR! 2025 virtual session
