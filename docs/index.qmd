@@ -34,7 +34,7 @@ from: markdown+emoji
 
 - Polyglot (multilingual) IDE
 - Support for both R and Python
-- Unlike single-language IDEs (RStudio, MATLAB)
+- Unlike single-language IDEs (MATLAB)
 - Real-world projects often require different programming languages
 
 # Familiarity
